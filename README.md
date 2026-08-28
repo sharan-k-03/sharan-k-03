@@ -1,4 +1,8 @@
 <div align="center">
+  <img alt="Animated welcome banner" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:FFFF00&text=Welcome%20to%20my%20GitHub&fontColor=FFFF00&fontAlignY=36&animation=twinkling" />
+</div>
+
+<div align="center">
   <img alt="Terminal typing: whoami - System Architect, Full-Stack Engineer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=root%40sharan-k-03%3A~%24+whoami;System+Architect;Full-Stack+Engineer" />
 </div>
 
@@ -41,6 +45,11 @@ To architect scalable, high-performance software systems that bridge low-level s
   <img alt="GitHub stats for sharan-k-03" src="https://github-readme-stats.vercel.app/api?username=sharan-k-03&show_icons=true&theme=hacker&hide_border=true&bg_color=000000&text_color=FFFF00&title_color=FFFF00" />
   <!-- Contribution streak images sometimes fail to load; remove or replace if it breaks -->
   <img alt="Contribution streak for sharan-k-03 (may not load if external service is down)" src="https://github-readme-streak-stats.herokuapp.com/?user=sharan-k-03&theme=hacker&hide_border=true&background=000000&ring=FFFF00" />
+</div>
+
+### Animation
+<div align="center">
+  <img alt="Coding animation" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 ---
